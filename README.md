@@ -1,2 +1,2 @@
 # icarus
-R app for species identification and resistance genes mapping
+Collection of scripts used for analysis of ONT NGS data - bacterial species identification, assembly and SNP calling
